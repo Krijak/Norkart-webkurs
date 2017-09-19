@@ -6,10 +6,11 @@
 - [Oppgave](#oppgave)
 - [Kjøre koden](#kjøre-koden)
 - [Bakgrunnskart](#bakgrunnskart)
+- [Legge inn punkter](#legg-inn-punkter)
 - [Tutorial](#tutorial)
 
 ## Oppgave
-Lag en nettside som på best mulig måte viser dine topp tre utesteder i Trondheim. Ta utganspunkt i koden som ligger i mappen [task-boilerplate](./task-boilerplate).
+Lag din egen "Gløshaugen overlevelsesguide". Ta utganspunkt i koden som ligger i mappen [task-boilerplate](./task-boilerplate).
 
 ## Kjøre koden
 Last ned koden ved å trykke "Clone or Download". Deretter last ned zip, eller clone hvis du har git installert. Når koden er lastet ned kan du gå inn i mappen som heter `task-boilerplate` og åpne `index.html` i nettleseren, og du er i gang!
@@ -45,6 +46,9 @@ Url: `https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?
 
 Url: `http://{s}.tile.osm.org/{z}/{x}/{y}.png`
 
+
+## Legge inn nye punkter
+Hvis man ønsker å legge inn flere punkter i kartet, kan man enkelt finne koordinater ved hjelp av [kommunekart.com](kommunekart.com). Du vil automatisk få opp koordinatene for punktet du trykker på i kartet. 
 
 ## Tutorial med eksempler på hva man kan gjøre <a name="tutorial"> </a>
 http://leafletjs.com/examples/geojson/
