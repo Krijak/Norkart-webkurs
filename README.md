@@ -6,7 +6,7 @@
 - [Oppgave](#oppgave)
 - [Kjøre koden](#kjøre-koden)
 - [Bakgrunnskart](#bakgrunnskart)
-- [Legge inn nye punkter](#legg-inn-nye-punkter)
+- [Legge inn nye punkter](#legge-inn-nye-punkter)
 - [Tutorial](#tutorial)
 
 ## Oppgave
